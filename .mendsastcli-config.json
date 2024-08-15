@@ -1,7 +1,7 @@
 {
     "scans": {
         "engines": [],
-        "pathExclusions": ["/src/main/java/org/t246osslab/easybuggy/vulnerabilities/OGNLExpressionInjectionServlet.java"],
+        "pathExclusions": [],
         "javaEngineGeneration": 2,
         "csharpEngineGeneration": 2,
         "jsEngineGeneration": 2,

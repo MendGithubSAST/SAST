@@ -7,8 +7,8 @@
         "jsEngineGeneration": 2,
         "maxFileSize": 1024,
         "timeouts": {
-            "perFile": 600
-            "perLanguage": 480
+            "perFile": 600,
+            "perLanguage": 480,
             "perScan": 480
         }
     }   
